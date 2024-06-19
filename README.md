@@ -1,5 +1,8 @@
 # iPhone 15 Pro Website Clone
 
+![Screenshot 2024-06-19 155401](https://github.com/VelpuriVineela/IPhone15-Pro/assets/134683293/5689b218-3240-450c-a225-b5f5c1f5b160)
+
+
 This project is a clone of the iPhone 15 Pro website, created using React and other modern web technologies. It includes various components, assets, utilities, animations, and 3D models to replicate the official website's look and feel.
 
 ## Table of Contents
