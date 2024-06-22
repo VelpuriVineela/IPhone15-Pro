@@ -7,6 +7,7 @@ This project is a clone of the iPhone 15 Pro website, created using React and ot
 
 ## Table of Contents
 
+- [Hosted Link](#hosted-link)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,8 +19,11 @@ This project is a clone of the iPhone 15 Pro website, created using React and ot
 - [Utils](#utils)
 - [Constants](#constants)
 - [Acknowledgements](#acknowledgements)
-- [Hosted Link](#hosting-link)
 
+
+## Hosted Link
+
+- https://iphone15-pro-clone.netlify.app/
 
 ## Project Structure
 
@@ -171,6 +175,3 @@ The 3D models of the iPhone 15 Pro are an integral part of this project. These m
 - Built with React and other modern web technologies.
 
 
-## Hosted Link
-
-- https://iphone15-pro-clone.netlify.app/
